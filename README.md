@@ -4,4 +4,5 @@
 - 🌱 I’m currently learning TDD.
 - 💬 Ask me about JavaScript, React, Vue, Express, SQL.
 - 📫 How to reach me: contact@ahmedelazazy.com
-Unfortunetly, most of my repos are private and cannot be shared.
+
+**Unfortunetly, most of my repos are private and cannot be shared.**
